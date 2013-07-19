@@ -1,6 +1,6 @@
 int builtInVendorIds[] = {
     0x18d1, /* Google */
-	 0x8087, /* INTEL */
+    0x8087, /* INTEL */
     0x0bb4, /* HTC */
     0x04e8, /* Samsung */
     0x22b8, /* Motorola */
@@ -38,12 +38,12 @@ int builtInVendorIds[] = {
     0x1662, /* Positivo */
     0x15eb, /* VIA-Telecom */
     0x04c5, /* Fujitsu */
-	 0x25e3, /* Lumigon */
+    0x25e3, /* Lumigon */
     0x0408, /* Quanta */
     0x2314, /* INQ Mobile */
     0x1949, /* Lab126 */
-	 0x1ebf, /* Yulong Coolpad */
-	 0x2237, /* Kobo */
+    0x1ebf, /* Yulong Coolpad */
+    0x2237, /* Kobo */
     0x16d5, /* AnyDATA */
     0x109b, /* Hisense */
     0x2080, /* Nook */
@@ -57,7 +57,9 @@ int builtInVendorIds[] = {
     0x22da, /* MEEG */
     0x22d9, /* OPPO */
     0x19d1, /* BYD */
-	 0x2836, /* OUYA */
-	 0x1d45, /* Qisda */
+    0x2836, /* OUYA */
+    0x1d45, /* Qisda */
+    0x9bb5, /* VIVO */
+    0x1c9e, /* OMEGA */
     /* TODO: APPEND YOUR ID HERE! */
 };
