@@ -61,5 +61,6 @@ int builtInVendorIds[] = {
     0x1d45, /* Qisda */
     0x9bb5, /* VIVO */
     0x1c9e, /* OMEGA */
+    0x1782, /* Spreadtrum */
     /* TODO: APPEND YOUR ID HERE! */
 };
